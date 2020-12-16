@@ -9,3 +9,8 @@ This is a webpage for a marketing business that has the correct plans in order t
 ```md
 ![alt text](assets/images/Horiseon.png)
 ```
+
+## license
+MIT License
+
+Copyright (c) [2020] [Horiseon.llc]
