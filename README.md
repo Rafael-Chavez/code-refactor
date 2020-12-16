@@ -14,3 +14,12 @@ This is a webpage for a marketing business that has the correct plans in order t
 MIT License
 
 Copyright (c) [2020] [Horiseon.llc]
+
+## features 
+
+a vast amount of information for starting a business.
+
+
+## tests
+
+You can follow the html link and see how everything works and is functioning properly
